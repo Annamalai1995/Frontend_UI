@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+}
+ol{
+    font-size: x-large;
+    color: aqua;
+    margin: left 10px;
+}
+p{
+    margin-right: 10px;
+    color: aliceblue;
+}
